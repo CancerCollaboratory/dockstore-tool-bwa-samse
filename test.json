@@ -1,5 +1,9 @@
 {
-    "input": {
+    "insai": {
+        "class": "File",
+        "path": "test.sai"
+    },
+    "infq": {
         "class": "File",
         "path": "test.fastq"
     },
@@ -11,5 +15,5 @@
         "class": "File",
         "path": "test.sam"
     },
-    "output_name": "test.sam"
+    "outsam": "test.sam"
 }
