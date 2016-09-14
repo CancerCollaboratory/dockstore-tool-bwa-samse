@@ -17,7 +17,7 @@ cwlVersion: v1.0
 
 requirements:
 - class: DockerRequirement
-  dockerPull: quay.io/collaboratory/dockstore-tool-bwa-samse
+  dockerPull: quay.io/collaboratory/dockstore-tool-bwa-samse:1.0
 
 
 inputs:
